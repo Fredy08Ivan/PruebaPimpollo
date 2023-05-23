@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PruebaPimpollo/static/css/main.c2cab247.css",
+    "main.js": "/PruebaPimpollo/static/js/main.267aa5a2.js",
+    "static/js/787.1fdc35ac.chunk.js": "/PruebaPimpollo/static/js/787.1fdc35ac.chunk.js",
+    "index.html": "/PruebaPimpollo/index.html",
+    "main.c2cab247.css.map": "/PruebaPimpollo/static/css/main.c2cab247.css.map",
+    "main.267aa5a2.js.map": "/PruebaPimpollo/static/js/main.267aa5a2.js.map",
+    "787.1fdc35ac.chunk.js.map": "/PruebaPimpollo/static/js/787.1fdc35ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cab247.css",
+    "static/js/main.267aa5a2.js"
+  ]
+}
